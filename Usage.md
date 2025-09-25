@@ -1,0 +1,1 @@
+python src/email_assistant/tools/gmail/run_ingest.py --email fit4gains25@gmail.com --minutes-since 1000
